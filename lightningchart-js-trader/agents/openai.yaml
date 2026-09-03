@@ -1,0 +1,7 @@
+interface:
+  display_name: "LightningChart JS Trader"
+  short_description: "Accurate LightningChart JS Trader charting guidance"
+  default_prompt: "Use $lightningchart-js-trader to create high-performing and interactive trading data visualization components"
+
+policy:
+  allow_implicit_invocation: true
